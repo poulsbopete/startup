@@ -37,15 +37,12 @@ const Footer = ({ Logo }) => {
               </Link>
             )}
             <address>
-              85 Simone Weil Avenue
+              Poulsbo
               <br />
-              Watton-at-Stone
+              Washington
               <br />
-              SG14 8BL
+              USA
             </address>
-            <a className="telephone" href="tel:+004407076009211">
-              07076 009 211
-            </a>
           </div>
         ) : null}
 
